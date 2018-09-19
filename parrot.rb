@@ -1,4 +1,4 @@
 def parrot
-put "Squawk"
+puts "Squawk"
 phrase = parrot
 end
